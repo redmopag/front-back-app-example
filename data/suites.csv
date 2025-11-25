@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Nov 25 06:06:46 UTC 2025","Tue Nov 25 06:06:46 UTC 2025","24","App","","","","","should render the app",""
-"passed","Tue Nov 25 06:07:07 UTC 2025","Tue Nov 25 06:07:08 UTC 2025","106","Backend","WeatherForecast","Controller","WeatherForecastControllerTests","Get_ReturnsWeatherForecasts","Get_ReturnsWeatherForecasts",""
-"passed","Tue Nov 25 06:07:08 UTC 2025","Tue Nov 25 06:07:08 UTC 2025","0","Backend","WeatherForecast","Controller","WeatherForecastControllerTestsFixed","Get_ReturnsWeatherForecasts","Get_ReturnsWeatherForecasts",""
-"passed","Tue Nov 25 06:06:46 UTC 2025","Tue Nov 25 06:06:46 UTC 2025","124","App","","","","","should increment count when button is clicked",""
-"passed","Tue Nov 25 06:07:08 UTC 2025","Tue Nov 25 06:07:08 UTC 2025","1","Backend","WeatherForecast","Controller","WeatherForecastControllerTests","GetById_ReturnsWeatherForecast","GetById_ReturnsWeatherForecast",""
-"passed","Tue Nov 25 06:07:08 UTC 2025","Tue Nov 25 06:07:08 UTC 2025","0","Backend","WeatherForecast","Controller","WeatherForecastControllerTestsFixed","GetById_ReturnsWeatherForecast","GetById_ReturnsWeatherForecast",""
